@@ -1,6 +1,6 @@
-# Gaming-website
-First year "Introduction to web development" module 
-Detail of the task
+# Gaming-website <br />
+First year "Introduction to web development" module <br />
+Detail of the task <br />
 In this assignment, you are required to build a dynamic web application using PHP running on the 
 Apache Web Server, using the Eclipse PDT IDE as the development environment.  The application 
 will be developed as an Eclipse-based PHP project.  
