@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>desc</tabid>
+    <tabname>Description</tabname>
+    <content_href>"ittakes2bio.html"</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>rev</tabid>
+    <tabname>Review</tabname>
+    <content_href>ittakes2bio.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>facts</tabid>
+    <tabname>Key Facts </tabname>
+    <content_href>ittakes2bio.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>extrev</tabid>
+    <tabname>External Review</tabname>
+    <content_href>ittakes2bio.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>retailers</tabid>
+    <tabname>Retailers</tabname>
+    <content_href>ittakes2bio.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

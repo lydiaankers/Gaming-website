@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  
+  <Article>
+    <heading>PS5 Restock</heading><tagline>PS5 Restock</tagline>
+    <storyimg_href>/news/PS5.jpg</storyimg_href>
+    <content>UPDATE: The PS5 could drop at AO and Game this week....</content>
+    <article_href></article_href>
+    <summary>Game could restock the PS5 tomorrow</summary>
+    <link>https://www.independent.co.uk/games/ps5-stock-uk-restock-latest-b2051191.html</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+  <Article>
+    <heading>Lego Star Wars</heading>
+    <tagline>New PS5 Game</tagline>
+    <storyimg_href>/news/lego.png</storyimg_href>
+    <content>Stars including Anthony Daniels and Billy Dee Williams reprise the Star Wars roles that made their names, but this time it's for a game rather than a film...</content>
+    <article_href></article_href>
+    <summary>LEGO Star Wars: The Skywalker Saga</summary>
+    <link>https://news.sky.com/story/lego-star-wars-the-skywalker-saga-big-screen-actors-reprise-their-roles-in-new-video-game-12582979</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+    
+    <Article>
+    <heading>Max Payne 1 and 2 Remake</heading>
+    <tagline>PS5 Upcoming Game</tagline>
+    <storyimg_href>/news/maxpayne.jpg</storyimg_href>
+    <content>Remedy will work with Rockstar under a new publishing agreement to remake the first two Max Payne games for PC, PlayStation 5, and Xbox Series X and S. Remedy will handle development while Rockstar will finance the project "which will be in line with a typical Remedy AAA-game production"...</content>
+    <article_href></article_href>
+    <summary>Remedy and Rockstar Games Announce</summary>
+    <link>https://www.ign.com/articles/max-payne-remake-remedy-rockstar-ps5-pc-xbox</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+
+</Articles>
